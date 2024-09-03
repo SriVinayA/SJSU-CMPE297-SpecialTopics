@@ -44,7 +44,3 @@ This repository contains the artifacts for Assignment 1 of the SJSU CMPE297 Spec
 1. **Review the PDF Presentation**: Check the `297-Assign1-PartA-Slideshow.pdf` file to see the summarized presentation of the video content.
 2. **Read the Medium Article**: Visit the link to read a detailed article based on the summarized content.
 3. **Explore the Transcript and Demo Video**: If required, generate the transcript using the provided tool and follow the demo video instructions to understand the process.
-
-## Contact
-
-For any queries, please reach out to **SriVinayA**.
