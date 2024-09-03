@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume and Job Description Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Resume and Job Description Analyzer</h1>
+        <form id="upload-form" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="resume">Upload Resume (PDF or DOCX):</label>
+                <input type="file" id="resume" name="resume" accept=".pdf,.docx" required>
+            </div>
+            <div class="form-group">
+                <label for="job_description">Upload Job Description (PDF, DOCX, or TXT):</label>
+                <input type="file" id="job_description" name="job_description" accept=".pdf,.docx,.txt" required>
+            </div>
+            <button type="submit">Analyze</button>
+        </form>
+        <div id="results" style="display: none;">
+            <h2>Analysis Results</h2>
+            <div id="matching-skills"></div>
+            <div id="missing-skills"></div>
+            <div id="recommendations"></div>
+        </div>
+        <div id="error-message" class="error" style="display: none;"></div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
