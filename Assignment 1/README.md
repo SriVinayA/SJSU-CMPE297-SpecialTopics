@@ -34,6 +34,11 @@ This repository contains the artifacts for Assignment 1 of the SJSU CMPE297 Spec
 - **Title**: The AI Engineer World’s Fair 2024 - A Glimpse into the Future of Intelligence
 - **Link**: [Read the Article on Medium](https://medium.com/@SriVinayA/the-ai-engineer-worlds-fair-2024-a-glimpse-into-the-future-of-intelligence-f461229acfdd)
 
+## Demo Video
+
+- A demo video showcasing the process and techniques used in this assignment is available.
+- **Link**: [Watch the Demo Video](https://drive.google.com/file/d/1AFGl9_2NIksTervp91ThLZemVGfuiGuM/view?usp=share_link)
+
 ## Artifacts in This Repository
 
 - **PDF Presentation**: `297-Assign1-PartA-Slideshow.pdf` - A LaTeX slideshow presentation summarizing the content.
@@ -43,4 +48,5 @@ This repository contains the artifacts for Assignment 1 of the SJSU CMPE297 Spec
 
 1. **Review the PDF Presentation**: Check the `297-Assign1-PartA-Slideshow.pdf` file to see the summarized presentation of the video content.
 2. **Read the Medium Article**: Visit the link to read a detailed article based on the summarized content.
-3. **Explore the Transcript and Demo Video**: If required, generate the transcript using the provided tool and follow the demo video instructions to understand the process.
+3. **Watch the Demo Video**: View the demo video to understand the process and techniques used for the assignment.
+4. **Explore the Transcript**: If required, generate the transcript using the provided tool.
