@@ -8,7 +8,7 @@ The objective of this part of the assignment is to explore the Claude Dev enviro
 
 ## Project Overview
 
-For this assignment, I chose to build a simple To-Do application as my complex project. The application is developed as a web app, showcasing an end-to-end implementation using the Claude 3.5 Sonnet extension.
+For this assignment, I chose to build a simple To-Do application. The application is developed as a web app, showcasing an end-to-end implementation using the Claude 3.5 Sonnet extension.
 
 ### Features of the To-Do Application
 
